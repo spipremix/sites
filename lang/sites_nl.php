@@ -41,6 +41,7 @@ $GLOBALS[$GLOBALS['idx_lang']] = array(
 	'entree_description_site' => 'Omschrijving van de site',
 	'erreur_fichier_format_inconnu' => 'Formaat van het bestand @fichier@ wordt niet aanvaard.',
 	'erreur_fichier_incorrect' => 'Het bestand kon niet gelezen worden.',
+	'erreur_methode_syndication_inconnue' => 'Syndicatie methode @methode@ is onbekend',
 
 	// F
 	'form_prop_nom_site' => 'Naam van de website',
@@ -94,7 +95,7 @@ $GLOBALS[$GLOBALS['idx_lang']] = array(
 	'item_bloquer_liens_syndiques' => 'Gesyndiceerde koppelingen ter goedkeuring tegenhouden',
 	'item_gerer_annuaire_site_web' => 'Een adresboek van websites aanmaken',
 	'item_non_bloquer_liens_syndiques' => 'Koppelingen komende van de syndicatie niet blokkeren',
-	'item_non_gerer_annuaire_site_web' => 'Adresboek van websites desactiveren',
+	'item_non_gerer_annuaire_site_web' => 'Adresboek van websites deactiveren',
 	'item_non_utiliser_syndication' => 'Automatische syndicatie niet gebruiken',
 	'item_utiliser_syndication' => 'Automatische syndicatie gebruiken',
 
